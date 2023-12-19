@@ -1,0 +1,39 @@
+PS C:\Users\Admin\Desktop> java A
+Enter the name of the student
+PANNAGA R BHAT
+Enter the usn of the student
+1BM22CS189
+Enter subject 1 marks
+100
+Enter credits of subject 1
+4
+Enter subject 2 marks
+100
+Enter credits of subject 2
+4
+Enter subject 3 marks
+100
+Enter credits of subject 3
+3
+Enter subject 4 marks
+89
+Enter credits of subject 4
+3
+Enter subject 5 marks
+99
+Enter credits of subject 5
+3
+Enter subject 6 marks
+100
+Enter credits of subject 6
+1
+Enter subject 7 marks
+88
+Enter credits of subject 7
+1
+Enter subject 8 marks
+100
+Enter credits of subject 8
+1
+Name of the Candidate:PANNAGA R BHAT
+USN of the Candidate:1BM22CS189
