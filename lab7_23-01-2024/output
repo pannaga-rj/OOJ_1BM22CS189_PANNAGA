@@ -1,4 +1,4 @@
-  Enter your usn: 
+Enter your usn: 
 1BM22CS189
 Enter your name: 
 Pannaga R Bhat
@@ -18,6 +18,26 @@ Enter Semester marks of 5 subjects
 98
 97
 95
+Enter your usn: 
+1BM22CS200
+Enter your name: 
+Prajwal P
+Enter your semester: 
+3
+Enter CIE Marks
+Enter internal marks of 5 subjects
+50
+50
+50
+49
+49
+Enter SEE Marks
+Enter Semester marks of 5 subjects
+100
+99
+98
+97
+96
 Displaying Data:
 USN:  1BM22CS189
 NAME:  Pannaga R Bhat
@@ -27,3 +47,12 @@ Subject 2 marks:98
 Subject 3 marks:97
 Subject 4 marks:95
 Subject 5 marks:97
+USN:  1BM22CS200
+NAME:  Prajwal P
+SEMESTER:  3
+Subject 1 marks:100
+Subject 2 marks:99
+Subject 3 marks:99
+Subject 4 marks:97
+Subject 5 marks:97
+
