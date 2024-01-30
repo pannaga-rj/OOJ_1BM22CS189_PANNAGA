@@ -77,4 +77,4 @@ Balance: 863.2
 Name of customer 2 : ram
 Account number of customer 2: 20
 Type of Account: current
-Balance:396.0
+Balance:396.0
